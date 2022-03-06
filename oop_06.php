@@ -60,3 +60,6 @@ class CheckingAccount extends BankAccount
 		return false;
 	}
 }
+
+// Method overriding allows a child class to define a method that overrides (or replaces) the method already provided by its parent class.
+// Use parent:: to call the overridden method in the overriding method
